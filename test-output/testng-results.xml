@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-24T16:43:44 WIB" name="Default suite" finished-at="2022-11-24T16:44:33 WIB" duration-ms="48709">
+    <groups>
+    </groups>
+    <test started-at="2022-11-24T16:43:44 WIB" name="Default test" finished-at="2022-11-24T16:44:33 WIB" duration-ms="48709">
+      <class name="tests.Home">
+        <test-method is-config="true" signature="globalSetup()[pri:0, instance:tests.Home@550dbc7a]" started-at="2022-11-24T16:43:44 WIB" name="globalSetup" finished-at="2022-11-24T16:44:00 WIB" duration-ms="16063" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- globalSetup -->
+        <test-method signature="test1()[pri:0, instance:tests.Home@550dbc7a]" started-at="2022-11-24T16:44:00 WIB" name="test1" finished-at="2022-11-24T16:44:04 WIB" duration-ms="3506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:tests.Home@550dbc7a]" started-at="2022-11-24T16:44:04 WIB" name="test2" finished-at="2022-11-24T16:44:24 WIB" duration-ms="20097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:0, instance:tests.Home@550dbc7a]" started-at="2022-11-24T16:44:24 WIB" name="test3" finished-at="2022-11-24T16:44:30 WIB" duration-ms="6081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method signature="test4()[pri:0, instance:tests.Home@550dbc7a]" started-at="2022-11-24T16:44:30 WIB" name="test4" finished-at="2022-11-24T16:44:30 WIB" duration-ms="82" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method signature="test5()[pri:0, instance:tests.Home@550dbc7a]" started-at="2022-11-24T16:44:30 WIB" name="test5" finished-at="2022-11-24T16:44:32 WIB" duration-ms="2722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method is-config="true" signature="globalTearDown()[pri:0, instance:tests.Home@550dbc7a]" started-at="2022-11-24T16:44:33 WIB" name="globalTearDown" finished-at="2022-11-24T16:44:33 WIB" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- globalTearDown -->
+      </class> <!-- tests.Home -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
